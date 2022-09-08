@@ -73,5 +73,5 @@ Congratulations! You should now see your modifications on the web.
 ![](https://github.com/DrVicki/front-end-integration/blob/main/modifiedweburl.png)
 
 
-
+That's it for the **.NET Core Web API**. Mixing and matching these steps and adding the configuration to the correct Controllers or routes will be the biggest challenge when working in a development environment.
 
