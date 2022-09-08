@@ -13,7 +13,6 @@ cd desktop
 cd Programming/CSharp
 dotnet new webapp -o BackendApplication --force
 cd BackendApplication
-code .
 ```
 
 The preceding commands:
