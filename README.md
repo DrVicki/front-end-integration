@@ -33,7 +33,17 @@ The preceding command displays the following dialog:
 
 ![](https://github.com/DrVicki/front-end-integration/blob/main/images/securitywarning.png)
 
+Select **Yes** if you agree to trust the development certificate.
 
+## Run the app
+
+Run the following commands:
+
+```
+cd BackendApplication
+dotnet watch run
+```
+After the command shell indicates the app has started, browse to https://localhost:{port}, where {port}is the random port used.
 
 
 
