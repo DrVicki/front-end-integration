@@ -31,7 +31,7 @@ Trust the HTTPS development certificate:
 
 The preceding command displays the following dialog:
 
-
+![](https://github.com/DrVicki/front-end-integration/blob/main/images/securitywarning.png)
 
 
 
