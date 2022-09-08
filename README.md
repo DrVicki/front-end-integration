@@ -45,12 +45,28 @@ dotnet watch run
 ```
 After the command shell indicates the app has started, browse to https://localhost:{port}, where {port}is the random port used.
 
+![](https://github.com/DrVicki/front-end-integration/blob/main/images/weburl.png)
 
+## Edit a Razor page
 
+Open `Pages/Index.cshtml`, modify and save the page with the following highlighted markup:
 
+```
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
 
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Hello, LearningSource Developers! The time on the server is @DateTime.Now</p>
+</div>
+```
 
+### Run
 
+`dotnet watch run`
 
 
 
