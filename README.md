@@ -2,6 +2,24 @@
 
 ## Walkthrough: Setting up the Back End
 
+In this lesson:
+
+  - Prerequisites
+  - Create a web app project
+  - Run the app
+  - Edit a Razor page
+
+This lesson shows how to create and run an ASP.NET Core web app using the .NET Core CLI.
+
+You'll learn how to:
+
+  - Create a web app project.
+  - Trust the development certificate.
+  - Run the app.
+  - Edit a Razor page.
+
+At the end, you'll have a working web app running on your local machine.
+
 ### Create a New Web API Application
 
 The project for the back-end will be a .NET Core WebApi. It will be configured to accept requests and then return data to the client. Open the terminal and create a new project following the same steps as in previous lessons. Name the project BackendApplication.
