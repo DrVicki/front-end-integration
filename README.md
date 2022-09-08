@@ -20,6 +20,10 @@ You'll learn how to:
 
 At the end, you'll have a working web app running on your local machine.
 
+### Prerequisites
+
+[.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+
 ### Create a New Web API Application
 
 The project for the back-end will be a .NET Core WebApi. It will be configured to accept requests and then return data to the client. Open the terminal and create a new project following the same steps as in previous lessons. Name the project BackendApplication.
