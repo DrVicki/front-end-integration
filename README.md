@@ -69,7 +69,9 @@ Open `Pages/Index.cshtml`, modify and save the page with the following highlight
 `dotnet watch run`
 
 
+Congratulations! You should now see your modifications on the web.
 
+![](https://github.com/DrVicki/front-end-integration/blob/main/modifiedweburl.png)
 
 
 
